@@ -1,0 +1,51 @@
+/* style.css */
+body{
+  background: rgb(0,0,0);
+  color: green;
+  font-size: 25px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: Bebal;
+  color: blanchedalmond;
+  font-weight: lighter;
+  font-size: 55px;
+}
+h2,h3,h4{
+  font-family: EB+Garamond;
+  color: blanchedalmond;
+  font-weight: normal;
+  font-size: 25px;
+}
+h2,h4{
+  font-style:italic ;
+}
+
+h5{
+   font-family: Creepster;
+  color: blanchedalmond;
+  font-weight: normal;
+  font-size: 190px; 
+  line-height: 1;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+p {
+  font-family: cursive;
+  color: white;
+  font-weight: lighter;
+  font-size: 25px;
+}
+
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+.IMAGE{
+  width: 30%;
+  height: 30%;
+}
